@@ -2,7 +2,7 @@
   height: 50%;
   width: 50%;
   position: absolute;
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(4px) hue-rotate(70deg);
   background-color: rgba(255, 255, 255, 0.2);
   border: 2px solid grey;
   z-index: 2;
